@@ -1,0 +1,24 @@
+import type { Metadata } from "next";
+import "./globals.css";
+import AppLayout from "@/components/AppLayout";
+
+export const metadata: Metadata = {
+  title: "Peblo - AI Notes",
+  description: "Lightweight, collaborative, AI-powered notes workspace",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en">
+      <body>
+        <AppLayout>
+          {children}
+        </AppLayout>
+      </body>
+    </html>
+  );
+}

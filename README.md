@@ -4,7 +4,7 @@ Peblo is a modern, full-stack notes application designed for the Peblo Full Stac
 
 ![Peblo Header](public/header.png)
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Intelligent Workspace
 - **Dynamic Editor:** A clean, focused writing environment with real-time auto-saving.
@@ -31,7 +31,7 @@ Peblo is a modern, full-stack notes application designed for the Peblo Full Stac
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend:** Next.js 15+ (App Router), React, Lucide Icons
 - **Backend:** Next.js API Routes (Serverless)
@@ -42,7 +42,7 @@ Peblo is a modern, full-stack notes application designed for the Peblo Full Stac
 
 ---
 
-## 📂 Architecture Overview
+##   Architecture Overview
 
 The project follows a modular, scalable architecture:
 
@@ -96,13 +96,14 @@ To ensure the application is running correctly:
 3. **AI Test:** Create a note with at least 50 words and click "AI Analyze" to verify the Gemini integration.
 4. **Public Link Test:** Share a note and open the link in a Guest window to verify public access.
 
----
 
-## 📈 Future Improvements
+
+##  Future Improvements
 - **Real-time Collaboration:** Using WebSockets for multi-user editing.
 - **Rich Text Support:** Integrating Markdown or a block-based editor.
 - **Mobile App:** Porting the logic to React Native.
 
----
+## Demo_video
+- **Link-https://github.com/Malvika1905/Peblo_challenge/blob/b28326e1d5e0cfccbcf59a30c7444e6441d74b96/demo_video/Demo_peblo.mp4
 
 

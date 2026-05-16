@@ -2,7 +2,7 @@
 
 Peblo is a modern, full-stack notes application designed for the Peblo Full Stack Developer Challenge. It combines a premium, high-end user interface with powerful AI-driven insights to help users manage their notes and productivity effectively.
 
-![Peblo Header](public/header.png)
+
 
 ##  Key Features
 
